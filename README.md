@@ -1,6 +1,6 @@
-# React Admin Example
+# React Admin Portal Example
 
-> Example of React Admin. We use JSON-Server for our REST API
+>  We use JSON-Server for our REST API
 
 ## Usage
 
