@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "TV",
+      "body": "this is a TV",
+      "id": 1,
+      "publishedAt": "2022-12-22"
+    },
+    {
+      "title": "WASHING MACHINE",
+      "body": "A WASHING ",
+      "publishedAt": "2022-12-15",
+      "id": 2
+    }
+  ]
+}
