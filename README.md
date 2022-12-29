@@ -1,6 +1,6 @@
-# React Admin Portal Example
+# React Admin Portal
 
->  We use JSON-Server for our REST API
+> JSON-Server for our REST API
 
 ## Usage
 
@@ -13,7 +13,7 @@ cd client
 npm install
 cd ..
 
-# Run client and server (Visit http://localhost:3000)
+# Run client and server (Visit http://localhost:3000) from root folder
 npm run dev
 
 # Run server only (:5000)
